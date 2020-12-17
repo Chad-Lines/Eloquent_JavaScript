@@ -1,5 +1,5 @@
-// Program Structure
-// =================
+// Ch 2. Program Structure
+// =======================
 
 // Bindings
 // --------
